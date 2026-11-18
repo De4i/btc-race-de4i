@@ -8,4 +8,4 @@ A deterministic, long-only cbBTC breakout and risk-managed exit bot for `agent-f
 
 Run with Node 22: `node main.ts`. Local grading uses the published make.fun kit's Docker runner.
 
-[Enter the race](https://make.fun/r/btc-race-24h-20261118-1444?ref=w5k1aby9) · [Bounty details](https://make.fun/bounty/btc-race-24h-20261118-1444)
+[Enter the race](https://make.fun/bounty/btc-race-24h-20261118-1444)
